@@ -1,1 +1,1 @@
-# Prediction-of-Disease-Outbreaks
+# Prediction-of-Diseases-Outbreak
